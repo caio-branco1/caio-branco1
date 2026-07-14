@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS e estou construindo minha carreira na área de Tecnologia, com foco em Qualidade de Software (QA).
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou em transição de carreira para a área de Tecnologia, com foco em Qualidade de Software (QA).
 
-Neste GitHub compartilho minha evolução por meio de projetos, estudos e desafios práticos desenvolvidos durante minha jornada.
+Neste GitHub compartilho minha evolução por meio de projetos, estudos e desafios práticos desenvolvidos durante a minha jornada.
 
 ---
 
