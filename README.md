@@ -33,6 +33,7 @@ Neste GitHub compartilho minha evolução por meio de projetos, estudos e desafi
 - Aprender testes manuais e automatizados
 - Conquistar minha primeira oportunidade na área de Tecnologia
 - Evoluir continuamente como profissional
+- Contribuir para projetos reais de tecnologia.
 
 ---
 
